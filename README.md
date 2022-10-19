@@ -87,7 +87,7 @@ As rotas estarão protegidas com autenticação(token) e autorização.
 - UUID
 - Paginação
 - Documentação da API
-- Banco de Dados Postgres
+- Banco de Dados PostgreSQL
 - Django Testcase com Coverage
 - Deploy Heroku
 - Integração com Cors
